@@ -1,0 +1,754 @@
+[
+  {
+    "country": "Greece",
+    "farm": " Agios Efstratios",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u03a4\u0395\u03a1\u039d\u0391 \u0395\u039d\u0395\u03a1\u0393\u0395\u0399\u0391\u039a\u0397 \u0391.\u0392.\u0395.\u03a4.\u0395.(Translation - TERNA ENERGY S.A.) (TERNA ENERGY S.A.)",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Agios Efstratios",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TERNA ENERGY S.A.",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Corfu",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u0395\u039b.\u03a4\u0395\u03a7. \u0391\u039d\u0395\u039c\u039f\u03a3 \u0391.\u0395.(Translation - EL.TECH. WIND SA - GREEK WIND TECHNODOMIKI Inc)",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Corfu",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u0395\u039b.\u03a4\u0395\u03a7. \u0391\u039d\u0395\u039c\u039f\u03a3 \u0391.\u0395.(Translation - EL.TECH. WIND SA - GREEK WIND TECHNODOMIKI Inc)",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Islands",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "VENERGIA \u0395\u039d\u0395\u03a1\u0393\u0395\u0399\u0391\u039a\u0397 \u0391\u0395 (Translation - Venergia Energy SA)",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Islands",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "VENERGIA \u0395\u039d\u0395\u03a1\u0393\u0395\u0399\u0391\u039a\u0397 \u0391\u0395 (Translation - Venergia Energy SA)",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Eight",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Eight",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Five",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Five",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Four",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Four",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Nine",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Nine",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase One",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase One",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Seven",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Seven",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Six",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Six",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Three",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Three",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Two",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Diapontia Wind phase Two",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Dikella",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u0392\u039f\u03a5\u039b\u0393\u0391\u03a1\u0391\u039a\u0397\u03a3 \u0395. \u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u039c\u0395\u03a0\u0395(Translation - GEORGE E. VOULGARAKIS Ltd)",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Dikella",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u0392\u039f\u03a5\u039b\u0393\u0391\u03a1\u0391\u039a\u0397\u03a3 \u0395. \u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u039c\u0395\u03a0\u0395(Translation - GEORGE E. VOULGARAKIS Ltd)",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " DWI - Peloponnese",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Deepwater Windenergy Investment AB",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " DWI - Peloponnese",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Deepwater Windenergy Investment AB",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " DWI - Peloponnese",
+    "role": "Designer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Deepwater Windenergy Investment AB",
+    "content": "Single DWI Power Station(Hexicon) - a floating, rotating, multi-turbine offshore wind power plant. The installed capacity is around 36-86 MW per installation and is equipped with 18 or 24 turbines per station."
+  },
+  {
+    "country": "Greece",
+    "farm": " DWI - Peloponnese",
+    "role": "Investor",
+    "categorie": "Others",
+    "organisation": "PowerChina(\u4e2d\u56fd\u7535\u529b\u5efa\u8bbe\u96c6\u56e2\u6709\u9650\u516c\u53f8)",
+    "content": "Powerchina Beijing Engineering will evaluate offshore wind projects, developed by DWI, with a view to accede to their development as main investor."
+  },
+  {
+    "country": "Greece",
+    "farm": " Golfe di Kymi",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Golfe di Kymi",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Kassos",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Kassos",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Marathon Bay",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u03a0\u039b\u0395\u0399\u0391\u0394\u0395\u03a3 \u0391\u0399\u039f\u039b\u0399\u039a\u0397 \u0391\u0395 (Translation - PLEIADES WIND AU) (TERNA ENERGY S.A.)",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Marathon Bay",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TERNA ENERGY S.A.",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Marthakiou",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u0391\u0399\u039f\u039b\u0399\u039a\u0397 \u03a0\u039b\u0391\u03a4\u0395\u0399\u0391- \u0395\u039d.\u03a4\u0395.\u039a\u0391 - ENORA - \u03a6\u0399\u039b\u0399\u03a0\u03a0\u0399\u0394\u0397\u03a3 (Translation - EN.TE.KA. Wind Parks SA)",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Marthakiou",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u0391\u0399\u039f\u039b\u0399\u039a\u0397 \u03a0\u039b\u0391\u03a4\u0395\u0399\u0391- \u0395\u039d.\u03a4\u0395.\u039a\u0391 - ENORA - \u03a6\u0399\u039b\u0399\u03a0\u03a0\u0399\u0394\u0397\u03a3 (Translation - EN.TE.KA. Wind Parks SA)",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Mathraki",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Mathraki",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Methones Kepoe",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u03a4\u0395\u03a1\u039d\u0391 \u0395\u039d\u0395\u03a1\u0393\u0395\u0399\u0391\u039a\u0397 \u0391.\u0392.\u0395.\u03a4.\u0395.(Translation - TERNA ENERGY S.A.) (TERNA ENERGY S.A.)",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Methones Kepoe",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TERNA ENERGY S.A.",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " NorthEast South Andros",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " NorthEast South Andros",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Ormos Kalidhonos",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Ormos Kalidhonos",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Othonoi",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Othonoi",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Plaka Keros AG Eirini",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u03a1\u039f\u039a\u0391\u03a3 \u0391\u0399\u039f\u039b\u0399\u039a\u0397 \u0392\u039f\u03a1\u0395\u0399\u039f\u03a3 \u0395\u039b\u039b\u0391\u03a3 \u0399 \u0391\u0392\u0395\u0395 ( Translation - Rokas Northern Wind Hellas SA I) (Iberdrola Renovables Energia, SA)",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Plaka Keros AG Eirini",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Porto Lagos/Thassos Park",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Porto Lagos/Thassos Park",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " St Efstratios",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " St Efstratios",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Steno Kafirea",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Steno Kafirea",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " Thrace Sea",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u03a4\u0395\u03a1\u039d\u0391-\u0391\u0399\u039f\u039b\u0399\u039a\u0397 \u03a0\u03a1\u039f\u0392\u0391\u03a4\u0391 ( Translation - Terna - WIND SHEEP) (TERNA ENERGY S.A.)",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " Thrace Sea",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TERNA ENERGY S.A.",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " WRE Hellas S.A",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Seawind Ocean Technology B.V.",
+    "content": "Seawind has signed an agreement with windfarm and solar park operator WRE Hellas to develop small scale offshore wind farms in the Greek Aegean Sea to provide the Greek islands with clean and economic energy. Seawind and WRE Hellas will develop a series of mini offshore wind farms in the deep Aegean Sea under the Clean Energy for EU Islands Programme, a long-term framework to help the 2,000+ inhabited EU islands generate their own sustainable, low-cost energy.\u00a0 The programme was formally launched September 2017 in Crete by European Commissioner for Climate Action & Energy Miguel Arias Ca\u00f1ete."
+  },
+  {
+    "country": "Greece",
+    "farm": " WRE Hellas S.A",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "WRE S.A.",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " WRE Hellas S.A",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Seawind Ocean Technology B.V.",
+    "content": "Seawind has signed an agreement with windfarm and solar park operator WRE Hellas to develop small scale offshore wind farms in the Greek Aegean Sea to provide the Greek islands with clean and economic energy. Seawind will deploy their 10.4MW turbines for the projects, that are installed as a complete unit of turbine and concrete foundation (either floating or gravity based).. "
+  },
+  {
+    "country": "Greece",
+    "farm": " WRE Hellas S.A",
+    "role": "Designer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Dr techn Olav Olsen",
+    "content": "Seawind\u2019s complete offshore units will have concrete support structures, bottom fixed or floating and developed with Olav Olsen."
+  },
+  {
+    "country": "Greece",
+    "farm": " \u0398\u03a1\u0391\u039a\u0399\u039a\u0397 \u0391\u0399\u039f\u039b\u0399\u039a\u0397 1 \u0391.\u0395. (Thrakiki Wind 1 SA)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " \u0398\u03a1\u0391\u039a\u0399\u039a\u0397 \u0391\u0399\u039f\u039b\u0399\u039a\u0397 1 \u0391.\u0395. (Thrakiki Wind 1 SA)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENEL GREEN POWER HELLAS AE",
+    "content": "30% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " \u0398\u03a1\u0391\u039a\u0399\u039a\u0397 \u0391\u0399\u039f\u039b\u0399\u039a\u0397 1 \u0391.\u0395. (Thrakiki Wind 1 SA)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "24.5% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " \u0398\u03a1\u0391\u039a\u0399\u039a\u0397 \u0391\u0399\u039f\u039b\u0399\u039a\u0397 1 \u0391.\u0395. (Thrakiki Wind 1 SA)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "17.5% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " \u0398\u03a1\u0391\u039a\u0399\u039a\u0397 \u0391\u0399\u039f\u039b\u0399\u039a\u0397 1 \u0391.\u0395. (Thrakiki Wind 1 SA)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "10.5% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " \u0398\u03a1\u0391\u039a\u0399\u039a\u0397 \u0391\u0399\u039f\u039b\u0399\u039a\u0397 1 \u0391.\u0395. (Thrakiki Wind 1 SA)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u2206\u0397\u039c\u0397\u03a4\u03a1\u0399\u039f\u03a3 \u039a\u039f\u03a0\u0395\u039b\u039f\u03a5\u0396\u039f\u03a3 (Copelouzos Group)",
+    "content": "17.5% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " \u039b\u03ae\u03bc\u03bd\u03bf (Lemnos)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "CITY ELECTRIC A.E. (RFEnergy) (RFEnergy)",
+    "content": ""
+  },
+  {
+    "country": "Greece",
+    "farm": " \u039b\u03ae\u03bc\u03bd\u03bf (Lemnos)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "RFEnergy",
+    "content": "100% stake"
+  },
+  {
+    "country": "Greece",
+    "farm": " \u039b\u03ae\u03bc\u03bd\u03bf (Lemnos)",
+    "role": "Designer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Deepwater Windenergy Investment AB",
+    "content": "DWI Power Station(Hexicon) being considered - a floating, rotating, multi-turbine offshore wind power plant. The installed capacity is around 36-86 MW per installation and is equipped with 18 or 24 turbines per station."
+  },
+  {
+    "country": "Greece",
+    "farm": " Avgo",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Avgo",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " HEXICON - Peloponnese",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Hexicon AB",
+    "content": "Hexicon plans to install floating platform"
+  },
+  {
+    "country": "Greece",
+    "farm": " HEXICON - Peloponnese",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Hexicon AB",
+    "content": "Hexicon plans to install floating platform"
+  },
+  {
+    "country": "Greece",
+    "farm": " Kos",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Kos",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Methones Kepoe",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u03a4\u0395\u03a1\u039d\u0391 \u0395\u039d\u0395\u03a1\u0393\u0395\u0399\u0391\u039a\u0397 \u0391.\u0392.\u0395.\u03a4.\u0395.(Translation - TERNA ENERGY S.A.) (TERNA ENERGY S.A.)",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Methones Kepoe",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TERNA ENERGY S.A.",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Okeanos",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Okeanos",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Zakros",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Zakros",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Alexandroupoli Marine Park",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Alexandroupoli Marine Park",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Alexandroupoli Marine Park",
+    "role": "Designer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Deepwater Windenergy Investment AB",
+    "content": "DWI Power Station(Hexicon) being considered - a floating, rotating, multi-turbine offshore wind power plant. The installed capacity is around 36-86 MW per installation and is equipped with 18 or 24 turbines per station."
+  },
+  {
+    "country": "Greece",
+    "farm": " Antirion",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Antirion",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Gulf St Nicholas",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Gulf St Nicholas",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Plaka",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Plaka",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Thalasio Park East Limnos",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "Greece",
+    "farm": " Thalasio Park East Limnos",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  }
+]

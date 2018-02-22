@@ -1,0 +1,42 @@
+[
+  {
+    "country": "Isle of Man",
+    "farm": " Isle of Man Offshore Wind Farm",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u00d8rsted A/S (formally DONG Energy AS)",
+    "content": "On 11/11/2014 DONG Energy were announced as the preferred partner of the Isle of Man wind farm."
+  },
+  {
+    "country": "Isle of Man",
+    "farm": " Isle of Man Offshore Wind Farm",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Isle of Man Government",
+    "content": "The Isle of Man Government is interested in leasing the seabed in its territorial waters to an offshore wind developer. It is estimated that this could generate \u00a35M per year for the Government."
+  },
+  {
+    "country": "Isle of Man",
+    "farm": " Isle of Man Offshore Wind Farm",
+    "role": "Consultant-Legal",
+    "categorie": "Consultants",
+    "organisation": "Watson Farley & Williams",
+    "content": "WFW advised DONG Energy on their successful tender. It was led by WFW's Head of Planning & Project Development."
+  },
+  {
+    "country": "Isle of Man",
+    "farm": " Isle of Man Offshore Wind Farm",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Source Low Carbon LLP",
+    "content": "To assist with the process for tendering for future offshore wind farms and tidal energy schemes in Isle of Man territorial seas."
+  },
+  {
+    "country": "Isle of Man",
+    "farm": " Isle of Man Offshore Wind Farm",
+    "role": "Surveyor-Other",
+    "categorie": "Others",
+    "organisation": "HiDef Aerial surveying Ltd",
+    "content": "HiDef will perform aerial survey of the wind farm site. The work will take place for a period of 2 years."
+  }
+]

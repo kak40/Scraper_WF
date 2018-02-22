@@ -1,0 +1,778 @@
+[
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ACCIONA Energ\u00eda",
+    "content": "Developer with GE Energy and Airtricity."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "GE Energy",
+    "content": "Developer with EHN (now Acciona) and Airtricity."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "SSE Renewables (formerly Airtricity) (Scottish and Southern Energy (SSE))",
+    "content": "Developer with GE Energy and EHN (now Acciona)."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Operator",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "GE Energy",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "GE Energy",
+    "content": "Under the development agreement Zeusford (50% Airtricity & 50% EHN, now Acciona) can purchase the project once testing and demonstration is complete."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer(LEAD)-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Mammoet van Oord BV",
+    "content": "Installation of 7 GE 3.6 turbines - Additional Client: Airtricity"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "A2SEA A/S (GeoSea NV)",
+    "content": "Installation of 7 GE 3.6MW wind turbines."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Maintenance-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Fugro Seacore Limited (Fugro)",
+    "content": "Provided maintenance to a turbine. Many difficult conditions had to be overcome to perform the maintenance including shallow water, strong currents and soft sediments. The rotors where removed at the same time as they couldn't be removed individually. This gave access to the hub."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "GE Energy",
+    "content": "Supplied 7 x GE 3.6MW turbines"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Turbine(Tower)",
+    "categorie": "Turbines",
+    "organisation": "Bladt Industries A/S (Nordic Capital)",
+    "content": "Fabrication of 7 towers. Each tower weighs 157 tonnes, has a diameter of 5.5 metres and is 60 metres high."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Supplier-Coatings(Turbine)",
+    "categorie": "Turbines",
+    "organisation": "Hempel A/S",
+    "content": "NaN"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Contractor-Grouting(turbines)",
+    "categorie": "Foundations",
+    "organisation": "ITW Densit ApS",
+    "content": "Completed the grouting contract in 2004."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Contractor-Grouting(turbines)",
+    "categorie": "Foundations",
+    "organisation": "FoundOcean Ltd.",
+    "content": "Grouting of the transition pieces - Client: Densit"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer(LEAD)-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Mammoet van Oord BV",
+    "content": "Installation of 7 monopile foundations - Additional Client: Airtricity"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer(LEAD)-Transition Piece(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Mammoet van Oord BV",
+    "content": "Installation of 7 transition pieces - Additional Client: Airtricity"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "A2SEA A/S (GeoSea NV)",
+    "content": "Installation of 7 monopiles and transition pieces."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Transition Piece(turbine)",
+    "categorie": "Foundations",
+    "organisation": "A2SEA A/S (GeoSea NV)",
+    "content": "Installation of 7 transition pieces"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "SIF/Smulders JV",
+    "content": "Supply of 7 monopile foundations"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Foundation-Primary Steel(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Sif-Group B.V.",
+    "content": "NaN"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Transition Piece(turbine)",
+    "categorie": "Foundations",
+    "organisation": "SIF/Smulders JV",
+    "content": "Supply of 7 transition pieces"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Transition Piece-Primary Steel(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Sif-Group B.V.",
+    "content": "NaN"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Transition Piece-Secondary Steel(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Smulders Projects B.V. (Eiffage Smulders)",
+    "content": "Addition of secondary steel and finishing of 7 transition pieces"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Array Cable(cable lay and burial)",
+    "categorie": "Array Cabling",
+    "organisation": "Siem Offshore Contractors GmbH (Siem Offshore AS)",
+    "content": "Five Oceans Services was awarded the contract for laying, burial and trenching of the power cables between each of the windmills, using the Cable Lay Barge \u2018Coastal Spider\u2019."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Array Cabling",
+    "categorie": "Array Cabling",
+    "organisation": "Siem Offshore Contractors GmbH (Siem Offshore AS)",
+    "content": "Installation of 5 km of array cable"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Array Cabling(trench excavation)",
+    "categorie": "Array Cabling",
+    "organisation": "Siem Offshore Contractors GmbH (Siem Offshore AS)",
+    "content": "Five Oceans Services was awarded the contract for laying, burial and trenching of the power cables between each of the windmills, using the Cable Lay Barge \u2018Coastal Spider\u2019."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Array Cabling",
+    "categorie": "Array Cabling",
+    "organisation": "Nexans France",
+    "content": "Supply of 7km of 35kV (3 x 1 x 300 mm2) 125mm diameter cable"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Siem Offshore Contractors GmbH (Siem Offshore AS)",
+    "content": "Installation of 16.5 km of export cable"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Export Cabling(burial)",
+    "categorie": "Export Cabling",
+    "organisation": "JD-Contractor AS (G.N. Underwater Invest)",
+    "content": "Survey of main cable, burial 0.5km of exposed sections and survey of re-buried sections - With use of Cable One vessel and Jetting unit (SUB-JET ONE), ROV and MV1"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Export Cabling(burial)",
+    "categorie": "Export Cabling",
+    "organisation": "Siem Offshore Contractors GmbH (Siem Offshore AS)",
+    "content": "Five Oceans Services was awarded the contract for laying and trenching of the power cables from the shore to the wind park using the Cable Lay Barge \u2018Coastal Spider\u2019."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Export Cabling(cable lay)",
+    "categorie": "Export Cabling",
+    "organisation": "Siem Offshore Contractors GmbH (Siem Offshore AS)",
+    "content": "Five Oceans Services was awarded the contract for laying and trenching of the power cables from the shore to the wind park using the Cable Lay Barge \u2018Coastal Spider\u2019."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Export Cabling(trench excavation)",
+    "categorie": "Export Cabling",
+    "organisation": "Siem Offshore Contractors GmbH (Siem Offshore AS)",
+    "content": "Five Oceans Services was awarded the contract for laying and trenching of the power cables from the shore to the wind park using the Cable Lay Barge \u2018Coastal Spider\u2019."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Nexans France",
+    "content": "Supply of 16km of 35kV (3 x 1 x 300 mm2) 125mm diameter cable"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Contractor-Grouting(metmast)",
+    "categorie": "Met Masts",
+    "organisation": "ITW Densit ApS",
+    "content": "NaN"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer(LEAD)-Met Mast",
+    "categorie": "Met Masts",
+    "organisation": "A2SEA A/S (GeoSea NV)",
+    "content": "Turn-Key installation of the met mast including monopile, transition piece, lattice tower and measurement equipment"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Foundation(met mast)",
+    "categorie": "Met Masts",
+    "organisation": "Seacore Limited (Fugro)",
+    "content": "Piling of met mast foundation"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Tower(met mast)",
+    "categorie": "Met Masts",
+    "organisation": "A2SEA A/S (GeoSea NV)",
+    "content": "Installation of 71.4m lattice met mast tower,  as part of turn key contract"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Transition Piece(met mast)",
+    "categorie": "Met Masts",
+    "organisation": "A2SEA A/S (GeoSea NV)",
+    "content": "SEA POWER used to met mast transition piece, as part of turn key contract"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Foundation(metmast)",
+    "categorie": "Met Masts",
+    "organisation": "SIF/Smulders JV",
+    "content": "Fabrication of monopile and transition piece"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Foundation-Primary Steel(metmast)",
+    "categorie": "Met Masts",
+    "organisation": "Sif-Group B.V.",
+    "content": "NaN"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Manufacturer-Transition Piece-Met Mast",
+    "categorie": "Met Masts",
+    "organisation": "Smulders Projects B.V. (Eiffage Smulders)",
+    "content": "Fabrication of monopile and transition piece"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Consultant-EIA",
+    "categorie": "Consultants",
+    "organisation": "Ramb\u00f8ll Danmark A/S",
+    "content": "Provided a wind environment assessment and an environmental impact assessment."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Consultant-Health & Safety",
+    "categorie": "Consultants",
+    "organisation": "NaN",
+    "content": "Project supervisor at the construction stage and project HSE managaement for GE Wind Energy. Due diligence for an unamed client. "
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "MECAL",
+    "content": "Turbine Inspections"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Installer-Scour Protection",
+    "categorie": "Others",
+    "organisation": "Siem Offshore Contractors GmbH (Siem Offshore AS)",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Port",
+    "categorie": "Others",
+    "organisation": "NaN",
+    "content": "Act as base for Operations & Maintenance."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Supplier-Hydraulic Hammer",
+    "categorie": "Others",
+    "organisation": "IHC IQIP (IHC Merwede B.V.)",
+    "content": "S-1200 HydrohammerPile Diameter - 5.1mYear - 2003Turbine Monopiles"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Supplier-Navigation Aids",
+    "categorie": "Others",
+    "organisation": "BTI Light Systems A/S",
+    "content": "Supplier of aviation obstruction light systems"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Supplier-Navigation Aids",
+    "categorie": "Others",
+    "organisation": "Upgrade",
+    "content": "NaN"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Supplier-Other",
+    "categorie": "Others",
+    "organisation": "Seabed Scour Control Systems Limited",
+    "content": "SSCS provided Scour Protection for the 1 metre diameter Met Mast Pile Foundation using its Frond Scour Protection Mats."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Surveyor-Geophysical",
+    "categorie": "Others",
+    "organisation": "JD-Contractor AS (G.N. Underwater Invest)",
+    "content": "Survey of main cable, burial 0.5km of exposed sections and survey of re-buried sections - With use of Cable One vessel and Jetting unit (SUB-JET ONE), ROV and MV1"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Surveyor-Geophysical",
+    "categorie": "Others",
+    "organisation": "Titan Environmental Surveys Ltd (Gardline Shipping Ltd.)",
+    "content": "Geophysical survey (SBES, MBES, SSS, SBP, magnetometer) of the site and the cable route."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 1",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "Lankelma (Gardline Shipping Ltd.)",
+    "content": "20x CPT to 35m and cable route survey."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 2",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ACCIONA Energ\u00eda",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 2",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "GE Energy",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 2",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "SSE Renewables (formerly Airtricity) (Scottish and Southern Energy (SSE))",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "GE Energy",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Arklow Bank Phase 2",
+    "role": "Supplier-Other",
+    "categorie": "Others",
+    "organisation": "Seabed Scour Control Systems Limited",
+    "content": "SSCS are providing Scour Protection for 2 of the 5 metre diameter Turbine Pile Foundations and Cables using its Frond Scour Protection Mats."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Codling Wind Park",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Codling Wind Park Ltd",
+    "content": "Developer jointly owned by Fred. Olsen Renewables and Treasury Holdings"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Codling Wind Park",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Co-Owner, 50% stake."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Codling Wind Park",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Fred. Olsen Renewables Ltd",
+    "content": "Joint venture with Treasury Holdings, 50% stake."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Codling Wind Park",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Natural Power Consultants Ltd",
+    "content": "Management of development consents up to the shoreline."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Codling Wind Park",
+    "role": "Surveyor-Geophysical",
+    "categorie": "Others",
+    "organisation": "Bibby HydroMap (Formerly Osiris Projects) (Bibby Line Limited)",
+    "content": "Osiris Projects will carry out a Geophysical survey involving a side-scan sonar, magnetometer, multi-beam echo-sounder bathymetry and sub-bottom profiling. The survey started on Monday 26th August 2013 and will last until mid-January 2014, weather permitting."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Galway Bay Marine and Renewable Energy Test site",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Galway Bay Marine and Renewable Energy Test site",
+    "role": "Operator",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "SmartBay Ireland",
+    "content": "SmartBay Ireland is a not-for-profit company which was established by the Marine Institute and the third level sector to support Ireland\u2019s marine Test and Demonstration facility in Galway Bay."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Galway Bay Marine and Renewable Energy Test site",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " GRS Power Platform \u00bc Scale Test",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Global Renewable Solutions(formerly Marine Power Technologies Pty Ltd)",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " GRS Power Platform \u00bc Scale Test",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Global Renewable Solutions(formerly Marine Power Technologies Pty Ltd)",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Codling Wind Park Extension",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Codling Wind Park 11 Ltd",
+    "content": "Developer jointly owned by Fred. Olsen Renewables and Treasury Holdings"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Codling Wind Park Extension",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Treasury Holdings",
+    "content": "Joint venture with Fred. Olsen Renewables, 50% stake."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Codling Wind Park Extension",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Fred. Olsen Renewables Ltd",
+    "content": "Joint venture with Treasury Holdings, 50% stake."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Dublin Array",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Bray Offshore Wind Ltd (Saorgus Energy Ltd)",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Dublin Array",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Kish Offshore Wind Ltd (Saorgus Energy Ltd)",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Dublin Array",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Saorgus Energy Ltd",
+    "content": "100% stake"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Oriel Wind Farm",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Oriel Windfarm Limited",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Oriel Wind Farm",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Oriel Windfarm Limited",
+    "content": "Originally had a 100% stake until Parkwind aquired a significant proportion of the project in October 2017."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Oriel Wind Farm",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Parkwind NV",
+    "content": "Parkwind announced on 4th October 2017 that they have agreed a significant investment to become a strategic partner in the Oriel Wind Farm. "
+  },
+  {
+    "country": "Ireland",
+    "farm": " Oriel Wind Farm",
+    "role": "Contractor-Grouting(turbines)",
+    "categorie": "Foundations",
+    "organisation": "FoundOcean Ltd.",
+    "content": "Contracted to perform the grouting operations on the Met Mast"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Sceirde (Skerd) Rocks",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Fuinneamh Sceirde Teoranta",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Sceirde (Skerd) Rocks",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Fuinneamh Sceirde Teoranta",
+    "content": "100% stake"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Clogher Head",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Upgrade",
+    "content": "Hibernian Wind Power a subsidiary of ESB, will develop the project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Clogher Head",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ESB",
+    "content": "ESB plans to develop or acquire offshore wind farms projects, commencing in 2018. The size of individual projects is expected to range between 200 MW and 500 MW, although some projects could be larger. The location of these initial offshore wind farms is expected to be in the Irish sea. "
+  },
+  {
+    "country": "Ireland",
+    "farm": " Floating Power Plant - Ireland",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Floating Power Plant A/S",
+    "content": "Floating Power Plant A/S and DP Energy Ireland Ltd will will develop project as a joint venture."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Floating Power Plant - Ireland",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "DP Energy Ireland Ltd",
+    "content": "Floating Power Plant A/S and DP Energy Ireland Ltd will will develop project as a joint venture."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Gaelectric Foreshore Test Sites",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Gaelectric",
+    "content": ""
+  },
+  {
+    "country": "Ireland",
+    "farm": " Gaelectric Foreshore Test Sites",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "XEMC Darwind BV (XEMC Windpower Co., Ltd (\u6e58\u7535\u98ce\u80fd\u6709\u9650\u516c\u53f8))",
+    "content": "Teamed up with Gaelectric for onshore turbines. Likely that it will extend to offshore turbines, with the probable use of XE115-5000 turbines"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Gaelectric/Ideol ",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Gaelectric",
+    "content": "NaN"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Gaelectric/Ideol ",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "IDEOL",
+    "content": "NaN"
+  },
+  {
+    "country": "Ireland",
+    "farm": " Kilmichael Point",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Upgrade",
+    "content": "Hibernian Wind Power a subsidiary of ESB, will develop the project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " Kilmichael Point",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ESB",
+    "content": "ESB plans to develop or acquire offshore wind farms projects, commencing in 2018. The size of individual projects is expected to range between 200 MW and 500 MW, although some projects could be larger. The location of these initial offshore wind farms is expected to be in the Irish sea."
+  },
+  {
+    "country": "Ireland",
+    "farm": " North Irish Sea Array (NISA)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Gaelectric",
+    "content": "Oriel Windfarm Ltd. and Gaelectric Holdings plc signed a Memorandum of Understanding to co-develop project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " North Irish Sea Array (NISA)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Oriel Windfarm Limited",
+    "content": "Oriel Windfarm Ltd. and Gaelectric Holdings plc signed a Memorandum of Understanding to co-develop project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " North Irish Sea Array (NISA)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Gaelectric",
+    "content": "Oriel Windfarm Ltd. and Gaelectric Holdings plc signed a Memorandum of Understanding to co-develop project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " North Irish Sea Array (NISA)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Oriel Windfarm Limited",
+    "content": "Oriel Windfarm Ltd. and Gaelectric Holdings plc signed a Memorandum of Understanding to co-develop project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " North Irish Sea Array (NISA) - Pilot",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Gaelectric",
+    "content": "Oriel Windfarm Ltd. and Gaelectric Holdings plc signed a Memorandum of Understanding to co-develop project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " North Irish Sea Array (NISA) - Pilot",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Oriel Windfarm Limited",
+    "content": "Oriel Windfarm Ltd. and Gaelectric Holdings plc signed a Memorandum of Understanding to co-develop project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " North Irish Sea Array (NISA) - Pilot",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Gaelectric",
+    "content": "Oriel Windfarm Ltd. and Gaelectric Holdings plc signed a Memorandum of Understanding to co-develop project."
+  },
+  {
+    "country": "Ireland",
+    "farm": " North Irish Sea Array (NISA) - Pilot",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Oriel Windfarm Limited",
+    "content": "Oriel Windfarm Ltd. and Gaelectric Holdings plc signed a Memorandum of Understanding to co-develop project."
+  }
+]

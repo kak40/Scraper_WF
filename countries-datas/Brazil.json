@@ -1,0 +1,146 @@
+[
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca I - CEMAB I",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Asa Branca 2 (Asa Branca)",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca I - CEMAB I",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "E\u00f3lica Brasil Ltda",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca - Pilot Project",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Asa Branca 1 (Asa Branca)",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca - Pilot Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "E\u00f3lica Brasil Ltda",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca - Pilot Project",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "GE Renewable Energy (GE Energy)",
+    "content": "Could supply 5MW turbines, although no contract signed. Alstom sold their energy business to GE."
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca - Pilot Project",
+    "role": "Main Contractor-Met Mast",
+    "categorie": "Met Masts",
+    "organisation": "Offshore Wind Power Systems of Texas LLC",
+    "content": "Signed a MoU to negotiate platform sales for the meterological test site."
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca 4+ - CEMAB 4+",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Asa Branca 5 (Asa Branca)",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca 4+ - CEMAB 4+",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "E\u00f3lica Brasil Ltda",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca II - CEMAB II",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Asa Branca 3 (Asa Branca)",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca II - CEMAB II",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "E\u00f3lica Brasil Ltda",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca III - CEMAB III",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Asa Branca 4 (Asa Branca)",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Asa Branca III - CEMAB III",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "E\u00f3lica Brasil Ltda",
+    "content": "NaN"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Paracuru Campo Eolico",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Petrobras plan on implementing a demo project off of the coast of Paracuru."
+  },
+  {
+    "country": "Brazil",
+    "farm": " Paracuru Campo Eolico",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Petrobras plan on implementing a demo project off of the coast of Paracuru."
+  },
+  {
+    "country": "Brazil",
+    "farm": " Caucaia",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENERCE (Enerce Energias Renov\u00e1veis do Cear\u00e1) Ltda (Friendly Power)",
+    "content": "ENERCE Ltda plan to install wind farms off the coast at Caucaia and Pecem"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Caucaia",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENERCE (Enerce Energias Renov\u00e1veis do Cear\u00e1) Ltda (Friendly Power)",
+    "content": "ENERCE Ltda plan to install wind farms off the coast at Caucaia and Pecem"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Pecem",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENERCE (Enerce Energias Renov\u00e1veis do Cear\u00e1) Ltda (Friendly Power)",
+    "content": "ENERCE Ltda plan to install wind farms off the coast at Caucaia and Pecem"
+  },
+  {
+    "country": "Brazil",
+    "farm": " Pecem",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENERCE (Enerce Energias Renov\u00e1veis do Cear\u00e1) Ltda (Friendly Power)",
+    "content": "ENERCE Ltda plan to install wind farms off the coast at Caucaia and Pecem"
+  }
+]

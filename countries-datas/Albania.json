@@ -1,0 +1,26 @@
+[
+  {
+    "country": "Albania",
+    "farm": " Durrazzo",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Albania",
+    "farm": " Durrazzo",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Albania",
+    "farm": " Durrazzo",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  }
+]

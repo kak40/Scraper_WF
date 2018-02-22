@@ -1,0 +1,978 @@
+[
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaiKun Wind Development Inc",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENMAX Corporation",
+    "content": "ENMAX Green Power acquire 50% ownership stake of phase 1"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u00d8rsted A/S (formally DONG Energy AS) (\u00d8rsted A/S (formally DONG Energy AS))",
+    "content": "DONG Energy and NaiKun Wind Energy Group have signed a Letter of Intent (LOI) which gives DONG Energy the exclusive rights to negotiate a joint development agreement for the Haida Energy Field Offshore Wind Project in British Columbia and explore the potential for establishing a long-term partnership with Naikun Wind Energy Group. "
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Siemens Wind Power A/S (Siemens AG)",
+    "content": "Naikun have signed a preferred supplier agreement with Siemens Canada for 100 x  SWT-4.0-130 4MW. The agreement specifies that the two parties will exclusively explore the opportunities for a joint execution of the Company's project."
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Main Contractor-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "MT H\u00f8jgaard A/S",
+    "content": "Letter of intent signed for - Design, build and install 110 Foundations/Transition pieces + (Scour protection + infield cables)"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Designer-Met Mast",
+    "categorie": "Met Masts",
+    "organisation": "Ausenco",
+    "content": "Detailed design of offshore meteorological station"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Installer(LEAD)-Met Mast",
+    "categorie": "Met Masts",
+    "organisation": "Fraser River Pile & Dredge (GP) Inc. (FRPD)",
+    "content": "Managed transportation and installation of structure"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Installer-Foundation(met mast)",
+    "categorie": "Met Masts",
+    "organisation": "Fraser River Pile & Dredge (GP) Inc. (FRPD)",
+    "content": "Installation of jacket foundation"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Installer-Tower(met mast)",
+    "categorie": "Met Masts",
+    "organisation": "Fraser River Pile & Dredge (GP) Inc. (FRPD)",
+    "content": "Installation of solid cylindrical mast and sensor platform"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Installer-Transition Piece(met mast)",
+    "categorie": "Met Masts",
+    "organisation": "Fraser River Pile & Dredge (GP) Inc. (FRPD)",
+    "content": "Installation of transition piece"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Main Contractor-Met Mast",
+    "categorie": "Met Masts",
+    "organisation": "Ausenco",
+    "content": "NaiKun Wind Development Inc.engaged Ausenco, through its heritage Ausenco Sandwell brand as Owner\u2019s Engineer for the preliminary engineering and associated management services of the NaiKun Wind Farm."
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Manufacturer-Foundation(metmast)",
+    "categorie": "Met Masts",
+    "organisation": "Ramsay Machine Works LTD",
+    "content": "Fabrication of triangular jacket foundation"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Manufacturer-Met Mast(Tower)",
+    "categorie": "Met Masts",
+    "organisation": "Ramsay Machine Works LTD",
+    "content": "Fabrication of solid cylindrical mast and sensor platform"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Manufacturer-Transition Piece-Met Mast",
+    "categorie": "Met Masts",
+    "organisation": "Ramsay Machine Works LTD",
+    "content": "Fabrication of Transition piece"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Supplier-MetOcean Equipment",
+    "categorie": "Met Masts",
+    "organisation": "AXYS Technologies Inc.",
+    "content": "Supply of sensors for Met Mast"
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Installer-Scour Protection",
+    "categorie": "Others",
+    "organisation": "MT H\u00f8jgaard A/S",
+    "content": "Have signed a letter of intent with Naikun wind to design, supply and installation of foundations, scour protection & infield cables."
+  },
+  {
+    "country": "Canada",
+    "farm": " NaiKun - Haida Energy Field ",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "MT H\u00f8jgaard A/S",
+    "content": "Have signed a letter of intent with Naikun wind to design, supply and installation of foundations, scour protection & infield cables."
+  },
+  {
+    "country": "Canada",
+    "farm": "  St Ann's Bay",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy."
+  },
+  {
+    "country": "Canada",
+    "farm": "  St Ann's Bay",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "COPENHAGEN OFFSHORE PARTNERS",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy. "
+  },
+  {
+    "country": "Canada",
+    "farm": "  St Ann's Bay",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Copenhagen Infrastructure Partners (PensionDanmark)",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": "  St Ann's Bay",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " Burgeo Banks",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy."
+  },
+  {
+    "country": "Canada",
+    "farm": " Burgeo Banks",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "COPENHAGEN OFFSHORE PARTNERS",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy. "
+  },
+  {
+    "country": "Canada",
+    "farm": " Burgeo Banks",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Copenhagen Infrastructure Partners (PensionDanmark)",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " Burgeo Banks",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " New Brunswick",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy."
+  },
+  {
+    "country": "Canada",
+    "farm": " New Brunswick",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "COPENHAGEN OFFSHORE PARTNERS",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy. "
+  },
+  {
+    "country": "Canada",
+    "farm": " New Brunswick",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Copenhagen Infrastructure Partners (PensionDanmark)",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward.."
+  },
+  {
+    "country": "Canada",
+    "farm": " New Brunswick",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward.."
+  },
+  {
+    "country": "Canada",
+    "farm": " Prince Edward Island",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy."
+  },
+  {
+    "country": "Canada",
+    "farm": " Prince Edward Island",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "COPENHAGEN OFFSHORE PARTNERS",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy. "
+  },
+  {
+    "country": "Canada",
+    "farm": " Prince Edward Island",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Copenhagen Infrastructure Partners (PensionDanmark)",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " Prince Edward Island",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "COPENHAGEN OFFSHORE PARTNERS",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy. "
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Copenhagen Infrastructure Partners (PensionDanmark)",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Siemens Wind Power A/S (Siemens AG)",
+    "content": "Siemens selected as preferred turbine supplier."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "NaN",
+    "content": "Beothuk Energy has retained Jacob Securities Inc. of Toronto to identify project financing for a demonstration offshore wind park."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Maderra Engineering Inc",
+    "content": "Maderra Engineering was awarded the contract for Engineering Consulting Services for the 180 MW demonstration offshore wind park."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Designer-Other",
+    "categorie": "Others",
+    "organisation": "DNV GL AS",
+    "content": "DNV GL has been awarded a contract to provide the constraints analysis, wind resource and energy assessment, LCOE modelling and a preliminary wind farm layout."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Investor",
+    "categorie": "Others",
+    "organisation": "Talon Energy Services",
+    "content": "Beothuk Energy Inc. has formed a strategic alliance with Talon Energy Services. Talon, which has also acquired an interest in Beothuk, will work with Beothuk to develop and construct its offshore wind projects in Atlantic Canada and the United States."
+  },
+  {
+    "country": "Canada",
+    "farm": " St George's Bay",
+    "role": "Surveyor-Geophysical",
+    "categorie": "Others",
+    "organisation": "Fugro GeoSurveys",
+    "content": "Fugro GeoSurveys has been contracted to provide Bathymetric/geologic compilation,hydrographic data reprocessing, assessment of stability and seismicity, GIS analyses ofseabed morphology, and routing options."
+  },
+  {
+    "country": "Canada",
+    "farm": " The Great Lakes Array",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trillium Power Wind Corporation",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " The Great Lakes Array",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trillium Power Wind Corporation",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " The Great Lakes Array",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Vestas Offshore AS (Vestas Wind Systems A/S)",
+    "content": "Preferred supplier of turbines for 1600MW site"
+  },
+  {
+    "country": "Canada",
+    "farm": " The Superior Array",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trillium Power Wind Corporation",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " The Superior Array",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trillium Power Wind Corporation",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Trillium Power Wind 1",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trillium Power Wind Corporation",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Trillium Power Wind 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trillium Power Wind Corporation",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Trillium Power Wind 1",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Vestas Offshore AS (Vestas Wind Systems A/S)",
+    "content": "Preferred supplier. 138 x V112 3.0MW Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Trillium Power Wind 1",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "NaN",
+    "content": "Micro-siting and to calculate the annual energy production (AEP)"
+  },
+  {
+    "country": "Canada",
+    "farm": " Trillium Power Wind 2",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trillium Power Wind Corporation",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Trillium Power Wind 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trillium Power Wind Corporation",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Trillium Power Wind 2",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Vestas Offshore AS (Vestas Wind Systems A/S)",
+    "content": "Preferred supplier of turbines for 740MW site"
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Windstream Wolfe Island Shoals Inc (Windstream Energy Inc.)",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Windstream Energy Inc.",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Installer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "McKeil Marine",
+    "content": "Provide vessels to install the turbines."
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Siemens Wind Power A/S (Siemens AG)",
+    "content": "Supply as many as 130x 2.3MW turbines. The rotor blades will be made in Tillsonburg, Ontario to meet the 50% local content rule required to get a feed-in tariff."
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Installer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Bermingham Foundation Solutions",
+    "content": "Install the turbines and foundations."
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Manufacturer-Foundation(pre-fabricated pipes)",
+    "categorie": "Foundations",
+    "organisation": "Walters Inc.",
+    "content": "Provide and facilitate the structural steel."
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "George A. Wright & Son Ltd.",
+    "content": "Provide local fabrications and repair services for mechanical equipment. Also provide service platforms on the turbines."
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Installer-Other",
+    "categorie": "Others",
+    "organisation": "M. Sullivan & Son Limited",
+    "content": "Construct the port and shore facilities."
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Port",
+    "categorie": "Others",
+    "organisation": "Hamilton Port Authority",
+    "content": "Provide shore and quayside facilities."
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "ORTECH Consulting Inc.",
+    "content": "Project managing the development of the wind farm."
+  },
+  {
+    "country": "Canada",
+    "farm": " Wolfe Island Shoals",
+    "role": "Supplier-Other",
+    "categorie": "Others",
+    "organisation": "Anchor Concrete Products",
+    "content": "Provide concrete services to the electrical substation, supply the concrete and build the projects dock."
+  },
+  {
+    "country": "Canada",
+    "farm": " Yarmouth",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy."
+  },
+  {
+    "country": "Canada",
+    "farm": " Yarmouth",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "COPENHAGEN OFFSHORE PARTNERS",
+    "content": "Copenhagen Offshore Partners leading\u00a0project\u00a0jointly\u00a0with Beothuk Energy. "
+  },
+  {
+    "country": "Canada",
+    "farm": " Yarmouth",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Beothuk Energy Inc.",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " Yarmouth",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Copenhagen Infrastructure Partners (PensionDanmark)",
+    "content": "Copenhagen Infrastructure Partners (CIP) and Beothuk Energy Inc.set up the Joint Venture Atlantic Canada Offshore Developments (ACOD) to take project portfolio forward."
+  },
+  {
+    "country": "Canada",
+    "farm": " Cedar Spring",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Cedar Spring",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Cedar Spring",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Colchester",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Colchester",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Colchester",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Deerbrook",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Deerbrook",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Deerbrook",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Kingsville Extension",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Kingsville Extension",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Kingsville Extension",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 50 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Kingsville Pilot",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Kingsville Pilot",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Kingsville Pilot",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 5 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Lakeshore",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Lakeshore",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Lakeshore",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Lakewood Beach",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Lakewood Beach",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Lakewood Beach",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Leamington Extension",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Leamington Extension",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Leamington Extension",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 50 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Leamington Pilot",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Leamington Pilot",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Leamington Pilot",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 5 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Lighthouse Cove",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Lighthouse Cove",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Lighthouse Cove",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Port Alma",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Port Alma",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Port Alma",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Port Crewe",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Port Crewe",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Port Crewe",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Sandison",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Sandison",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Sandison",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Union Extension",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Union Extension",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Union Extension",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 50 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Union Pilot",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Union Pilot",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Union Pilot",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 5 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Wheatley",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Wheatley",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Southpoint Wind",
+    "content": "100% stake"
+  },
+  {
+    "country": "Canada",
+    "farm": " Wheatley",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "DeWind Inc (Daewoo Shipbuilding & Marine Engineering (DSME) (\ub300\uc6b0\uc870\uc120\ud574\uc591))",
+    "content": "Supply of 55 DeWind D8.2 Turbines"
+  },
+  {
+    "country": "Canada",
+    "farm": " Erie Wind Energy",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Erie Wind Energy (Wasatch Wind Ltd)",
+    "content": ""
+  },
+  {
+    "country": "Canada",
+    "farm": " Erie Wind Energy",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Wasatch Wind Ltd (Wasatch Wind Inc.)",
+    "content": "Wasatch Wind Ltd was sold to Canadian Hydro Developers, who were themselves bought by TransAlta, who paid a break fee to undo the initial transaction.  Wasatch Wind continue to develop project through Erie Wind Energy"
+  },
+  {
+    "country": "Canada",
+    "farm": " Toronto Hydro Research Platform",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Toronto Hydro",
+    "content": "Toronto Hydro at this point is installing a research platform to assess the wind resource. "
+  },
+  {
+    "country": "Canada",
+    "farm": " Toronto Hydro Research Platform",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Toronto Hydro",
+    "content": "100% stake"
+  }
+]

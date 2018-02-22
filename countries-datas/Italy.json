@@ -1,0 +1,786 @@
+[
+  {
+    "country": "Italy",
+    "farm": " Brindisi",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Brindisi",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "DUFENERGY ITALIA S.P.A.",
+    "content": "25% stake holder in Sky Saver"
+  },
+  {
+    "country": "Italy",
+    "farm": " Brindisi",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "75% shareholder in Sky Saver"
+  },
+  {
+    "country": "Italy",
+    "farm": " Brindisi",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Wind Energy Solutions (WES) BV",
+    "content": "Supplied the 80 kW two-bladed variable-speed WES18 mk1 wind turbine"
+  },
+  {
+    "country": "Italy",
+    "farm": " Brindisi",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Brindisi",
+    "role": "Manufacturer-Foundation-Primary Steel(turbine)",
+    "categorie": "Foundations",
+    "organisation": "PRO GECO srl",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico nella rada esterna del porto di Taranto",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico nella rada esterna del porto di Taranto",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico nella rada esterna del porto di Taranto",
+    "role": "Main Contractor-Turbine Supply and Installation",
+    "categorie": "Turbines",
+    "organisation": "Senvion GmbH (Formerly REpower) (Centerbridge Partners LP)",
+    "content": "Senvion appointed by Beleolico Srl as the turbine supplier for Taranto wind farm. Senvion willsupply ten Senvion 3.0M122. Delivery and installation of the turbines is currently planned in summer 2018, while their commissioning is expected to take place in autumn 2018. Jointly with the turbines supply and installation, the agreement signed by Beleolico and Senvion foresees a 25-year full maintenance service contract for the project. "
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico nella rada esterna del porto di Taranto",
+    "role": "Maintenance-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Senvion GmbH (Formerly REpower) (Centerbridge Partners LP)",
+    "content": "Senvion appointed by Beleolico Srl as the turbine supplier for Taranto wind farm. Senvion willsupply ten Senvion 3.0M122. Delivery and installation of the turbines is currently planned in summer 2018, while their commissioning is expected to take place in autumn 2018. Jointly with the turbines supply and installation, the agreement signed by Beleolico and Senvion foresees a 25-year full maintenance service contract for the project. "
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico nella rada esterna del porto di Taranto",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Senvion GmbH (Formerly REpower) (Centerbridge Partners LP)",
+    "content": "Senvion appointed by Beleolico Srl as the turbine supplier for Taranto wind farm. Senvion willsupply ten Senvion 3.0M122. Delivery and installation of the turbines is currently planned in summer 2018, while their commissioning is expected to take place in autumn 2018. Jointly with the turbines supply and installation, the agreement signed by Beleolico and Senvion foresees a 25-year full maintenance service contract for the project. "
+  },
+  {
+    "country": "Italy",
+    "farm": " Impianto eolico off-shore nel golfo di Gela (Butera) ",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Impianto eolico off-shore nel golfo di Gela (Butera) ",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TM.E. S.p.A. Termomeccanica Ecologia",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco Eolico Offshore Golfo di Manfredonia",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TREVI Energy S.p.A. a S.U. (Trevi Finanziaria Industriale SpA)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco Eolico Offshore Golfo di Manfredonia",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TREVI Energy S.p.A. a S.U. (Trevi Finanziaria Industriale SpA)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Rimini - 4POWER",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "4Power",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Rimini - 4POWER",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Provincia di Rimini",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Rimini - 4POWER",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Provincia di Rimini",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Golfo di Gela",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Moncada EnergyGroup",
+    "content": "Joint venture with Moncada 43% and Enel 57% of project"
+  },
+  {
+    "country": "Italy",
+    "farm": " Golfo di Gela",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Joint venture with Moncada 43% and Enel 57% of project"
+  },
+  {
+    "country": "Italy",
+    "farm": " Golfo di Gela",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Moncada EnergyGroup",
+    "content": "Joint venture with Moncada 43% and Enel 57% of project"
+  },
+  {
+    "country": "Italy",
+    "farm": " Golfo di Gela",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Joint venture with Moncada 43% and Enel 57% of project"
+  },
+  {
+    "country": "Italy",
+    "farm": " Margherita di Savoia",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Daunia Wind (Tozzi Holding S.r.l.)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Margherita di Savoia",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Tozzi Holding S.r.l.",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico Marino Gargano Sud",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "PARCO EOLICO MARINO GARGANO SUD (WPD offshore GmbH)",
+    "content": "NaN"
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico Marino Gargano Sud",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "WPD offshore GmbH (wpd AG)",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico Marino Gargano Sud",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Siemens Wind Power A/S (Siemens AG)",
+    "content": "NaN"
+  },
+  {
+    "country": "Italy",
+    "farm": " Secche di Vada",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Ravano Green Power Srl",
+    "content": "Developing site in partnership with PRO GECO srl"
+  },
+  {
+    "country": "Italy",
+    "farm": " Secche di Vada",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "PRO GECO srl",
+    "content": "Developing site in partnership with Ravano Green Power"
+  },
+  {
+    "country": "Italy",
+    "farm": " Afefa",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Afefa",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Aida",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Aida",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Atair",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "NaN"
+  },
+  {
+    "country": "Italy",
+    "farm": " Atair",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "NaN"
+  },
+  {
+    "country": "Italy",
+    "farm": " Bari",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Bari",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Bella",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Bella",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Blue H - 5 MW Demonstrator",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Blue H - 5 MW Demonstrator",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "DUFENERGY ITALIA S.P.A.",
+    "content": "25% owner of Sky Saver"
+  },
+  {
+    "country": "Italy",
+    "farm": " Blue H - 5 MW Demonstrator",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "75% owner of Sky Saver"
+  },
+  {
+    "country": "Italy",
+    "farm": " Blue H - 5 MW Demonstrator",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Blue H - 5 MW Demonstrator",
+    "role": "Manufacturer-Foundation-Primary Steel(turbine)",
+    "categorie": "Foundations",
+    "organisation": "PRO GECO srl",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Camilla",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Camilla",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale Eolica Offshore Brindisi",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TG Energie Rinnovabili S.r.l.",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale Eolica Offshore Brindisi",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TG Energie Rinnovabili S.r.l.",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale eolica off-shore Torre S.Gennaro",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TREVI Energy S.p.A. a S.U. (Trevi Finanziaria Industriale SpA)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale eolica off-shore Torre S.Gennaro",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trevi Finanziaria Industriale SpA",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Cerano",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Cerano",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " COMUNI DI VECCHIANO, S. GIULIANO TERME E PISA",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " COMUNI DI VECCHIANO, S. GIULIANO TERME E PISA",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Etruria",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Etruria",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Foce Verano",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Project developer"
+  },
+  {
+    "country": "Italy",
+    "farm": " Foce Verano",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Gargano Nord",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "wpd VentItalia s.r.l. (WPD offshore GmbH)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Gargano Nord",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "WPD offshore GmbH (wpd AG)",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Ginevra",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Ginevra",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Golfo di Manfredonia",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Gamesa Energia Italia (Gamesa Corporaci\u00f3n Tecnol\u00f3gica S.A.)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Golfo di Trieste",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Ansaldo sistemi industriali (Nidec ASI SpA)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Golfo di Trieste",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Ansaldo sistemi industriali (Nidec ASI SpA)",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico off-shore fra Mazara e Petrosino",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Tozzi Renewable Energy (Tozzi Holding S.r.l.)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico off-shore fra Mazara e Petrosino",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico off-shore fra Mazara e Petrosino",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Tozzi Renewable Energy (Tozzi Holding S.r.l.)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Parco eolico off-shore fra Mazara e Petrosino",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Porto Torres",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Porto Torres",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Rodi Garganico",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Project developer"
+  },
+  {
+    "country": "Italy",
+    "farm": " Rodi Garganico",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Rosa",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Rosa",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Termoli",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Termoli",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "Solely owned by Blue H Technologies BV (100%)"
+  },
+  {
+    "country": "Italy",
+    "farm": " Tricase",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Tricase",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "DUFENERGY ITALIA S.P.A.",
+    "content": "25% owner of Sky Saver"
+  },
+  {
+    "country": "Italy",
+    "farm": " Tricase",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Blue H Technologies BV",
+    "content": "75% share holder in Sky Saver"
+  },
+  {
+    "country": "Italy",
+    "farm": " Tricase",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Blue H Technologies BV",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Tricase",
+    "role": "Manufacturer-Foundation-Primary Steel(turbine)",
+    "categorie": "Foundations",
+    "organisation": "PRO GECO srl",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Tricase",
+    "role": "Port",
+    "categorie": "Others",
+    "organisation": "Autorita Portuale di Brindisi",
+    "content": "NaN"
+  },
+  {
+    "country": "Italy",
+    "farm": " Banco di Pantelleria e Banchi di Avventura",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Four Wind s.r.l.",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Banco di Pantelleria e Banchi di Avventura",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Four Wind s.r.l.",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale eolica off-shore Chieuti",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TREVI Energy S.p.A. a S.U. (Trevi Finanziaria Industriale SpA)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale eolica off-shore Chieuti",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trevi Finanziaria Industriale SpA",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale eolica offshore di Termoli",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Effeventi s.r.l",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale eolica offshore di Termoli",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Effeventi s.r.l",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale eolica off-shore Golfo di Manfredonia",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "TREVI Energy S.p.A. a S.U. (Trevi Finanziaria Industriale SpA)",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Centrale eolica off-shore Golfo di Manfredonia",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Trevi Finanziaria Industriale SpA",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Impianto eolico off shore Banco di Talbot",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Four Wind s.r.l.",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Is Arenas",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Is Arenas Renewables Energies s.r.l.",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Is Arenas",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Is Arenas Renewables Energies s.r.l.",
+    "content": "100% stake"
+  },
+  {
+    "country": "Italy",
+    "farm": " Oristano",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Interconsult Srl",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Oristano",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Interconsult Srl",
+    "content": ""
+  },
+  {
+    "country": "Italy",
+    "farm": " Sarroch(Caliari)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Formerly Eos"
+  },
+  {
+    "country": "Italy",
+    "farm": " Sarroch(Caliari)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Formerly Eos"
+  }
+]

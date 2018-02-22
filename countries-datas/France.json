@@ -1,0 +1,2402 @@
+[
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar Vertifloat (onshore)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Alstom Hydro Espana (Alstom Group)",
+    "content": "Consortium of NENUPHAR, ALSTOM Hydro Espa\u00f1a and CONVERTEAM"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar Vertifloat (onshore)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "Project leader - Consortium of NENUPHAR, ALSTOM Hydro Espa\u00f1a and CONVERTEAM"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar Vertifloat (onshore)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Converteam SAS",
+    "content": "Consortium of NENUPHAR, ALSTOM Hydro Espa\u00f1a and CONVERTEAM"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar Vertifloat (onshore)",
+    "role": "Investor",
+    "categorie": "Others",
+    "organisation": "Eurogia+",
+    "content": "Providing \u20ac3,200,000 of funding for project"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Technip S.A.",
+    "content": "Project leader"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Main project partner."
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "Main project partner."
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "France Energies Marines",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "NENUPHAR SA",
+    "content": "Supply 1 x 2MW Vertiwind turbine"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Alstom Hydro Espana (Alstom Group)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Eiffage Construction Metallique SAS",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Supplier-Flanges",
+    "categorie": "Foundations",
+    "organisation": "Euskal Forging SA",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Manufacturer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "DUCO Ltd (Technip S.A.)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Arts et Metiers",
+    "content": "Research partner."
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Institut des Sciences de L'Ingenieur de Toulon et du Var (ISITV)",
+    "content": "Research partner - Material"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "IFP Energies nouvelles",
+    "content": "Research partner."
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Bureau Veritas SA",
+    "content": "Research partner."
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Oceanide",
+    "content": "Research partner Basin test"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Seal Engineering",
+    "content": "Research partner - Design tool"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Converteam SAS",
+    "content": "Research partner"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Vryhof Anchors NV",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Vicinay Cadenas S.A",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Installer-Other",
+    "categorie": "Others",
+    "organisation": "VALEOL S.A.S.",
+    "content": "Installation of turbine blades"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar VERTIWIND (onshore)",
+    "role": "Investor",
+    "categorie": "Others",
+    "organisation": "ADEME Agence de l'Environnement et de la Ma\u00eetrise de l'Energie",
+    "content": "Provided funding for project"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "SEM-REV",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Operator",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "SEM-REV",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u00c9cole Centrale de Nantes",
+    "content": "Project Leader"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ARTELIA",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ProLarge",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "IFREMER",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "CREOCEAN",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ASTERIE",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Actimar",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Universit\u00e9 de Bretagne-Sud",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Universit\u00e9 de Bretagne occidentale, Laboratoire Brestois de M\u00e9canique et des syst\u00e8mes",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Ville du Croisic",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Centre d'\u00e9tude technique maritime et fluvial",
+    "content": "Project Partner"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Installer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Orange Marine",
+    "content": "Cable lay and burial of 24km export cable"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Manufacturer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Silec Cable SAS (General Cable Nordic AS)",
+    "content": "Delivered 24km export cable"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Zabala Innovation Consulting, SA",
+    "content": "Test Site studies"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Installer-Other",
+    "categorie": "Others",
+    "organisation": "ETPO",
+    "content": "Lead in the installation of array cable connector hub"
+  },
+  {
+    "country": "France",
+    "farm": " SEM-REV - SITE D'EXPERIMENTATION EN MER - MARINE TEST SITE",
+    "role": "Manufacturer-Other",
+    "categorie": "Others",
+    "organisation": "Upgrade",
+    "content": "Supply and support of the installation of the array cable connector hub."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "FLOATGEN",
+    "content": "Project developer"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Zabala Innovation Consulting, SA",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "\u00c9cole Centrale de Nantes",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Gamesa Corporaci\u00f3n Tecnol\u00f3gica S.A. (Siemens Wind Power A/S)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "IDEOL",
+    "content": "Project Coordinator. Member of FLOATGEN project team and designer of floating foundation.Design and engineering of the complete system (mooring, hull, umbilical)."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Universit\u00e4t Stuttgart",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Fraunhofer Institute for Wind Energy and Energy Systems Technology (IWES)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "RSK Environment Ltd",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Vestas Wind Systems A/S",
+    "content": "Vestas to provide their V80 2MW turbine, that will be used instead of the Gamesa G90 2MW turbine that the foundation was designed around."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Contractor-Heavy Load Logistics(Foundation)",
+    "categorie": "Foundations",
+    "organisation": "OCTRA Transport & Engineering",
+    "content": "OCTRA was contracted to be part of the FLOATGEN demo project by supplying the construction barges as well as associated equipment & skilled staff for the first building phase. Its second challenge will consist in performing the full float out of the 5000 tons caisson."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Designer(Detailed)-Foundation(Turbine)",
+    "categorie": "Foundations",
+    "organisation": "Universit\u00e4t Stuttgart",
+    "content": "Ring shaped (Damping Pool\u00ae system)floating foundation for 2MW Gamesa turbine designed and built by Stuttgart Chair of Wind Energy (SWE) at the University of Stuttgart and IDEOL. Contribution on coupled loads simulations and evaluation of measurement campaign."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Designer(Detailed)-Foundation(Turbine)",
+    "categorie": "Foundations",
+    "organisation": "IDEOL",
+    "content": "Ring shaped (Damping Pool\u00ae system)  floating foundation for 2MW Gamesa turbine designed and built by Stuttgart Chair of Wind Energy (SWE) at the University of Stuttgart and IDEOL"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Installer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Bourbon Offshore",
+    "content": "BOURBON has been awarded a contract for the mooring installation. BOURBON\u2019s Subsea Services team will be responsible for the project management, mooring installation and engineering. An AHTS (Anchor Handling Tug Supply) vessel and ROVs will be used for the pre-tensioning of the mooring system."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Manufacturer-Foundation(anchor)",
+    "categorie": "Foundations",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "IDEOL",
+    "content": "IDEOL will partner with a construction company for the supply of the concrete platform and hull."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Bouygues Travaux Publics",
+    "content": "Construction of the square shaped concrete ring floating foundation."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Consultant-EIA",
+    "categorie": "Consultants",
+    "organisation": "RSK Environment Ltd",
+    "content": "Member of FLOATGEN project team. Analysis of the environmental impact of the floating system."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Fraunhofer Institute for Wind Energy and Energy Systems Technology (IWES)",
+    "content": "Member of FLOATGEN project team. Benchmarking analysis between the proposed Floatgen system and other comparable floating solutions."
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "IFSTTAR",
+    "content": "Testing of Anchor chains and cables"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Universit\u00e4t Stuttgart",
+    "content": "Member of FLOATGEN project team and sustained monitoring activities"
+  },
+  {
+    "country": "France",
+    "farm": " Floatgen Project",
+    "role": "Transport-Other",
+    "categorie": "Others",
+    "organisation": "Boluda France",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " EOLINK 1/10 scale prototype",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "EOLINK S.A.S.",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " EOLINK 1/10 scale prototype",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "EOLINK S.A.S.",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Fraunhofer Institute for Wind Energy and Energy Systems Technology (IWES)",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Vicinay Cadenas S.A",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Eiffage Construction Metallique SAS",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Alstom Hydro Espana (Alstom Group)",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "DUCO Ltd (Technip S.A.)",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Vryhof Anchors NV",
+    "content": "One of ten partners involved in the project."
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "France Energies Marines",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Areva",
+    "content": "Project equity investor"
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Idinvest",
+    "content": "Project equity investor"
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Bpifrance",
+    "content": "Project equity investor"
+  },
+  {
+    "country": "France",
+    "farm": " InFLOW (INdustrialization setup of a FLoating Offshore Wind turbine)",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "NENUPHAR SA",
+    "content": "N\u00e9nuphar to install a 1MW two straight bladed vertical axis wind turbine"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar test site - MISTRAL - Golfe de Fos",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar test site - MISTRAL - Golfe de Fos",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar test site - MISTRAL - Golfe de Fos",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "France Energies Marines",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar test site - MISTRAL - Golfe de Fos",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Site owned by Mistral SAS company, which in turn is owned 78% by Nenuphar and 22% by EDF Energies Nouvelles"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar test site - MISTRAL - Golfe de Fos",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "Site owned by Mistral SAS company, which in turn is owned 78% by Nenuphar and 22% by EDF Energies Nouvelles"
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Ailes Marines SAS",
+    "content": "Won the tender for the project."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Operator",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Ailes Marines SAS",
+    "content": "Will operate the park and monitor production."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Owns 70% of the project with Avel Vor owning 30%"
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "eole RES",
+    "content": "Owned 30% of the project but sold 7.5% to Caisse des Depots. These two companies formed a joint venture called Avel Vor."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Caisse des d\u00e9p\u00f4ts et consignations",
+    "content": "Caisse de Depots purchased 7.5% stake from Eole-Res. These companies then formed a joint venture called Avel Vor."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Upgrade",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Manufacturer-Turbine(Tower)",
+    "categorie": "Turbines",
+    "organisation": "C\u00e9ole",
+    "content": "Produce the towers for the turbines."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Manufacturer-Onshore Substation",
+    "categorie": "Substations",
+    "organisation": "ABB A/S",
+    "content": "ABB will supply 400-megavolt ampere (MVA) booster transformers for onshore substations to help regulate the voltage of power transmitted."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Designer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "LICengineering A/S",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Main Contractor-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "STX Europe AS (STX Group (STX\uadf8\ub8f9))",
+    "content": "Manufacture and install the turbine foundations with Eiffage."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Main Contractor-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Eiffage Construction Metallique SAS",
+    "content": "Manufacture and install the turbine foundations with STX."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Eiffage Construction Metallique SAS",
+    "content": "Manufacture and install the turbine foundations with STX."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "STX Europe AS (STX Group (STX\uadf8\ub8f9))",
+    "content": "Manufacture and install the turbine foundations with Eiffage."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Installer-Array Cabling",
+    "categorie": "Array Cabling",
+    "organisation": "Technip S.A.",
+    "content": "Install the subsea cables at the project."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Installer(LEAD)-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Technip S.A.",
+    "content": "Install the underwater cables at the project."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Main Contractor-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "R\u00e9seau de Transport d'Electricit\u00e9 (RTE)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Consultant-EIA",
+    "categorie": "Consultants",
+    "organisation": "Neoen Marine (Neoen (Group Direct Energie))",
+    "content": "Perform environmental studies."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Consultant-EIA",
+    "categorie": "Consultants",
+    "organisation": "IN VIVO Environnement",
+    "content": "Environmental studies"
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "IN VIVO Environnement",
+    "content": "Conduct research into the affect of the project on local fisheries including looking at the current state of these populations spider crabs, whelks, bivalves and demersal fish."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "IFREMER",
+    "content": "Conduct research into the affects on the scallop populations."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Intertek Energy & Water consultancy services (formally Metoc Ltd)",
+    "content": "Provide marine advisory services for the offshore surveys and the export cable installation."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "NaN",
+    "content": "Metocean studies."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "NIRAS A/S",
+    "content": "Technical feasibility studies."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Surveyor-Geophysical",
+    "categorie": "Others",
+    "organisation": "G-tec s.a.s. (G-tec s.a.)",
+    "content": "Perform geophysical surveys and geotechnical boreholes. The geophysical techniques include (bathymetry, side scan sonar, magnetometry, reflexion seismic, grab sampling, drop down camera). In total 11 boreholes will be drilled. Undertaken between August and December 2012."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "G-tec s.a.s. (G-tec s.a.)",
+    "content": "Perform geophysical surveys and geotechnical boreholes. The geophysical techniques include (bathymetry, side scan sonar, magnetometry, reflexion seismic, grab sampling, drop down camera). In total 11 boreholes will be drilled. Undertaken between August and December 2012."
+  },
+  {
+    "country": "France",
+    "farm": " Projet \u00e9olien en mer de la Baie de Saint-Brieuc",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "Fugro Marine Services BV (Fugro)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Awarded the tender for the development of the Eoliennes Offshore du Calvados project."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "\u00c9olien Maritime France (EMF) holds an 85% share of the project. EMF is jointly co-owned by EDF Energies Nouvelles and Enbridge."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "WPD offshore GmbH (wpd AG)",
+    "content": "wpd Offshore holds a 15% share of the project."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Enbridge Inc.",
+    "content": "\u00c9olien Maritime France (EMF) holds an 85% share of the project. EMF is jointly co-owned by EDF Energies Nouvelles and Enbridge."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "GE Renewable Energy (GE Energy)",
+    "content": "Supply the Haliade 150 6MW model to the project. Generators and Nacelles to be made in Saint-Nazaire. Blades and Towers to be made in Cherbourg. Alstom sold their energy business to GE."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Manufacturer-Onshore Substation",
+    "categorie": "Substations",
+    "organisation": "ABB A/S",
+    "content": "ABB will supply 400-megavolt ampere (MVA) booster transformers for onshore substations to help regulate the voltage of power transmitted."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Designer(Detailed)-Foundation(Turbine)",
+    "categorie": "Foundations",
+    "organisation": "Ramboll",
+    "content": "Ramboll designed the monopile foundations for Saint-Nazaire and Courseulles-sur-Mer."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Installer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Main Contractor-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "R\u00e9seau de Transport d'Electricit\u00e9 (RTE)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Main Contractor-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Main Contractor-Onshore Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Manufacturer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "Green Giraffe",
+    "content": "Provided modelling services for EMF's bids for the 2011 French tender."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "BNP Paribas",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "wpd Offshore France SAS (WPD offshore GmbH)",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Surveyor-Geophysical",
+    "categorie": "Others",
+    "organisation": "Fugro GeoConsulting Limited (Fugro)",
+    "content": "Cable routing and burial assessment."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "R\u00e9seau de Transport d'Electricit\u00e9 (RTE)",
+    "content": "RTE is conducting geotechnical surveys in order to research potential export cable routes."
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "Fugro Marine Services BV (Fugro)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Eoliennes Offshore du Calvados project",
+    "role": "Surveyor-UXO",
+    "categorie": "Others",
+    "organisation": "G-tec s.a.",
+    "content": "Performed UXO seabed survey to identify potential hazardous obstructions prior to future works and to adapt cable routes if necessary. Techniques used were side scan sonar, multibeam echosounder and magnetometry."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "EOLFI Offshore France",
+    "content": "Project owned by EOLFI and CGN EE."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Partnership of EOLFI and CGN EE taking project forward with development company EOLFI Offshore France"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "EOLFI",
+    "content": "Partnership of EOLFI and CGN EE taking project forward with development company EOLFI Offshore France"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Meridiam SAS",
+    "content": "Caisse des D\u00e9p\u00f4ts and MERIDIAM have invested in project after signing contract with the project company \"Les \u00e9oliennes flottantes de Groix & Belle-\u00cele.\""
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Caisse des d\u00e9p\u00f4ts et consignations",
+    "content": "Caisse des D\u00e9p\u00f4ts and MERIDIAM have invested in project after signing contract with the project company \"Les \u00e9oliennes flottantes de Groix & Belle-\u00cele.\""
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "GE Renewable Energy (GE Energy)",
+    "content": "GE will supply 4 x 6MW Haliade turbines"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Designer(Detailed)-Foundation(Turbine)",
+    "categorie": "Foundations",
+    "organisation": "NaN",
+    "content": "DCNS will design foundation, design will be based on knowledge taken from their SEAReed floating foundation concept"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Main Contractor-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "NaN",
+    "content": "DCNS are the main contractors for fabrication and installation"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Vinci SA",
+    "content": "Will assist DCNS in the delivery of foundations"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Maintenance-Other",
+    "categorie": "Others",
+    "organisation": "VALEMO S.A.S",
+    "content": "VALEMO will manage operations and maintenance of pilot wind farm project"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Surveyor-Geophysical",
+    "categorie": "Others",
+    "organisation": "iroisemer",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Groix & Belle-\u00cele",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "G-tec s.a.",
+    "content": "G-tec utilising the VOS Satisfaction to carry out getechnical surveys on wind farm and cable routes areas."
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "This company was created after the GDF-led consortium were announced as the winners of the bid."
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Engie",
+    "content": "Part of the winning consortium consisting of GDF SUEZ, EDP Renewables, Neoen Marine and AREVA. Previous reports have suggested that the ownership breakdown is GDF 47%, EDP 43% and Neoen 10%."
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Part of the winning consortium consisting of GDF SUEZ, EDP Renewables, Neoen Marine and AREVA. Previous reports have suggested that the ownership breakdown is GDF 47%, EDP 43% and Neoen 10%."
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Caisse des d\u00e9p\u00f4ts et consignations",
+    "content": "La Caisse des D\u00e9p\u00f4ts acquired the shares of Neoen Marine in April 2016"
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "NaN",
+    "content": "Siemens Gamesa Renewable Energy (SGRE) and subsidiary Adwen France SAS announced that SGRE will now supply its 8 MW D8 offshore wind turbine to the Yeu-Noirmoutier and Dieppe-Le Tr\u00e9port offshore wind projects in France to replace Adwen's AD8 model which has been discontinued. This decision has been approved by the Ministry for Ecological and Solidarity Transition."
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "NIRAS A/S",
+    "content": "Les Eoliennes en Mer Services has chosen consulting engineering company, NIRAS to set a plan for decommissioning.  Niras previously assisted LEMS in de-risking future dismantling and has used the\u00a0ODIN (Offshore, Decommissioning of Installations Niras) tool to create the decommissioning plan for two french projects;  \u00c9oliennes en mer Dieppe et Le Tr\u00e9port and the Iles d\u2019Yeu et de Noirmoutier projects. "
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Engineer-Geotechnical",
+    "categorie": "Others",
+    "organisation": "LICengineering A/S",
+    "content": "LICengineering was selected as Engineer for two offshore windfarms in France, Noirmoutier windfarm and Le Tr\u00e9port Windfarm by Les Eolienne en Mer (LEM) on 16th August 2017.   "
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "NaN",
+    "content": "On 24th August 2017, ODE and DORIS Engineering were awarded the Owners Engineer contracts covering the Wind Turbine Generator Installation and the Marine Construction Management for the \u00c9oliennes en mer Dieppe et Le Tr\u00e9port and the Iles d\u2019Yeu et de Noirmoutier wind farms."
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "Offshore Design Engineering (ODE) Ltd",
+    "content": "On 24th August 2017, ODE and DORIS Engineering were awarded the Owners Engineer contracts covering the Wind Turbine Generator Installation and the Marine Construction Management for the \u00c9oliennes en mer Dieppe et Le Tr\u00e9port and the Iles d\u2019Yeu et de Noirmoutier wind farms."
+  },
+  {
+    "country": "France",
+    "farm": " Parc des Iles d\u2019Yeu et de Noirmoutier ",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "G-tec s.a.",
+    "content": "G-tec will carry out geotechnical survey during the summer of 2017, testing will be carried out on 30 of the 62 wind turbine sites and on the Location of the substation. "
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "This company was created after the GDF-led consortium were announced as the winners of the bid."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Engie",
+    "content": "Part of the winning consortium consisting of GDF SUEZ, EDP Renewables, Neoen Marine and AREVA. Previous reports have suggested that the ownership breakdown is GDF 47%, EDP 43% and Neoen 10%."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Part of the winning consortium consisting of GDF SUEZ, EDP Renewables, Neoen Marine and AREVA. Previous reports have suggested that the ownership breakdown is GDF 47%, EDP 43% and Neoen 10%."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Caisse des d\u00e9p\u00f4ts et consignations",
+    "content": "La Caisse des D\u00e9p\u00f4ts acquired the shares of Neoen Marine in April 2016"
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "NaN",
+    "content": "Siemens Gamesa Renewable Energy (SGRE) and subsidiary Adwen France SAS announced that SGRE will now supply its 8 MW D8 offshore wind turbine to the Yeu-Noirmoutier and Dieppe-Le Tr\u00e9port offshore wind projects in France to replace Adwen's AD8 model which has been discontinued. This decision has been approved by the Ministry for Ecological and Solidarity Transition."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "NaN",
+    "content": "Micro-siting and to calculate the annual energy production (AEP)"
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "NIRAS A/S",
+    "content": "Les Eoliennes en Mer Services has chosen consulting engineering company, NIRAS to set a plan for decommissioning.  Niras previously assisted LEMS in de-risking future dismantling and has used the\u00a0ODIN (Offshore, Decommissioning of Installations Niras) tool to create the decommissioning plan for two french projects;  \u00c9oliennes en mer Dieppe et Le Tr\u00e9port and the Iles d\u2019Yeu et de Noirmoutier projects. "
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Consultant-Project Management",
+    "categorie": "Consultants",
+    "organisation": "LICengineering A/S",
+    "content": "LICengineering A/S has been selected by \u00c9oliennes en Mer Dieppe Le Tr\u00e9port to review and supervise pile test campaign."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Engineer-Geotechnical",
+    "categorie": "Others",
+    "organisation": "LICengineering A/S",
+    "content": "LICengineering was selected as Engineer for two offshore windfarms in France, Noirmoutier windfarm and Le Tr\u00e9port Windfarm by Les Eolienne en Mer (LEM) on 16th August 2017."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "NaN",
+    "content": "On 24th August 2017, ODE and DORIS Engineering were awarded the Owners Engineer contracts covering the Wind Turbine Generator Installation and the Marine Construction Management for the \u00c9oliennes en mer Dieppe et Le Tr\u00e9port and the Iles d\u2019Yeu et de Noirmoutier wind farms."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "Offshore Design Engineering (ODE) Ltd",
+    "content": "On 24th August 2017, ODE and DORIS Engineering were awarded the Owners Engineer contracts covering the Wind Turbine Generator Installation and the Marine Construction Management for the \u00c9oliennes en mer Dieppe et Le Tr\u00e9port and the Iles d\u2019Yeu et de Noirmoutier wind farms."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de Dieppe - Le Tr\u00e9port",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "Offshore Design Engineering (ODE) Ltd",
+    "content": "On 24th August 2017, ODE and DORIS Engineering were awarded the Owners Engineer contracts covering the Wind Turbine Generator Installation and the Marine Construction Management for the \u00c9oliennes en mer Dieppe et Le Tr\u00e9port and the Iles d\u2019Yeu et de Noirmoutier wind farms."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Awarded the tender for the development of the Eoliennes Offshore des Hautes Falaises offshore wind farm."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "\u00c9olien Maritime France (EMF) holds a 70% share in the project. EMF is jointly co-owned by EDF Energies Nouvelles and Enbridge."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "WPD offshore GmbH (wpd AG)",
+    "content": "wpd Offshore holds a 30% share of the project."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Enbridge Inc.",
+    "content": "\u00c9olien Maritime France (EMF) holds a 70% share in the project. EMF is jointly co-owned by EDF Energies Nouvelles and Enbridge."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "GE Renewable Energy (GE Energy)",
+    "content": "Supply the Haliade 150 6MW model to the project. Generators and Nacelles to be made in Saint-Nazaire. Alstom sold their energy business to GE."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Manufacturer-Onshore Substation",
+    "categorie": "Substations",
+    "organisation": "ABB A/S",
+    "content": "ABB will supply 400-megavolt ampere (MVA) booster transformers for onshore substations to help regulate the voltage of power transmitted."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Designer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Seatower AS",
+    "content": "A Seatower Cranefree Gravity foundation demonstration will be installed at the site. This is a foundation that only requires regular towing vessels to install it, using a float-out-and-sink method."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Installer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "MT H\u00f8jgaard A/S",
+    "content": "Install the prototype concrete foundation from Seatower. The installation only requires towing vessels to sail the foundation out to sea and it is lowered onto the seabed by filling it with water."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Manufacturer-Foundation-Gravity Based(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Eiffage Travaux Publics",
+    "content": "Manufacture the prototype concrete foundation from Seatower."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Installer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Main Contractor-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "R\u00e9seau de Transport d'Electricit\u00e9 (RTE)",
+    "content": "RTE to provide grid connection, which will account for approximately 10% of the project's investment"
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Main Contractor-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Main Contractor-Onshore Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Manufacturer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Supplier-MetOcean Equipment",
+    "categorie": "Met Masts",
+    "organisation": "Automasjon & Data AS",
+    "content": "Supplied met mast instrumentation including all the electrical installations and instrumentation."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "Green Giraffe",
+    "content": "Provided modelling services for EMF's bids for the 2011 French tender."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "BNP Paribas",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "wpd Offshore France SAS (WPD offshore GmbH)",
+    "content": "Previously began work on its own wind farm before the tender was issued. Therefore has experience in this geographical area."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Surveyor-Geophysical",
+    "categorie": "Others",
+    "organisation": "Fugro GeoConsulting Limited (Fugro)",
+    "content": "Cable routing and burial assessment."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "GeoSea NV (DEME NV)",
+    "content": "Secured geotechnical site investigation works in a Joint venture with G-tec."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "G-tec s.a.",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer de F\u00e9camp",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "R\u00e9seau de Transport d'Electricit\u00e9 (RTE)",
+    "content": "RTE is conducting geotechnical surveys in order to research potential export cable routes."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Awarded the tender for the development of the Parc du Banc de Guerande project."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "\u00c9olien Maritime France (EMF) owns 100% of the project. EMF is jointly co-owned by EDF Energies Nouvelles and Enbridge."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Enbridge Inc.",
+    "content": "\u00c9olien Maritime France (EMF) owns 100% of the project. EMF is jointly co-owned by EDF Energies Nouvelles and Enbridge."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "GE Renewable Energy (GE Energy)",
+    "content": "Supply the Haliade 150 6MW model to the project. Generators and Nacelles to be made in Saint-Nazaire. Towers and blades to be made in Cherbourg. Alstom sold their energy business to GE."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Manufacturer-Onshore Substation",
+    "categorie": "Substations",
+    "organisation": "ABB A/S",
+    "content": "ABB will supply 400-megavolt ampere (MVA) booster transformers for onshore substations to help regulate the voltage of power transmitted."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Designer(Detailed)-Foundation(Turbine)",
+    "categorie": "Foundations",
+    "organisation": "Ramboll",
+    "content": "Ramboll designed the monopile foundations for Saint-Nazaire and Courseulles-sur-Mer."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Installer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Main Contractor-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "R\u00e9seau de Transport d'Electricit\u00e9 (RTE)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Main Contractor-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Main Contractor-Onshore Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Manufacturer-Export Cabling",
+    "categorie": "Export Cabling",
+    "organisation": "Prysmian Group S.p.A.",
+    "content": "Prysmian will be responsible for the design, supply, installation, testing and commissioning of two HV export power cable links for each of the three offshore wind farms covering both the submarine and land routes to connect F\u00e9camp, Calvados and St Nazaire to the French network. The submarine cable links, which consist of High Voltage Alternating Current (HVAC) 220 kV three-core cables with XLPE insulation and single wire armouring, will connect the offshore wind parks being developed by Eolien Maritime France (EMF). Prysmian intend to use the Cable Enterprise and the submarine cables will be produced in the Group\u2019s centres of excellence in Arco Felice, Italy and Pikkala, Finland. The cables for the land sections will be manufactured in Gron, France."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "Green Giraffe",
+    "content": "Provided modelling services for EMF's bids for the 2011 French tender."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "BNP Paribas",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Nass&Wind Offshore (Groupe Nass&Wind)",
+    "content": "Previously began work on its own wind farm before the tender was issued. Therefore has experience in this geographical area."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Intertek Energy & Water consultancy services (formally Metoc Ltd)",
+    "content": "Provide marine advisory services for the offshore surveys and the export cable installation."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Upgrade",
+    "content": "Metocean studies"
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "NIRAS A/S",
+    "content": "Technical feasibility studies."
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Project Management-Other",
+    "categorie": "Others",
+    "organisation": "Upgrade",
+    "content": "General Project Management (Project Director)"
+  },
+  {
+    "country": "France",
+    "farm": " Projet de parc \u00e9olien en mer de Saint-Nazaire",
+    "role": "Surveyor-Geotechnical",
+    "categorie": "Others",
+    "organisation": "Fugro Marine Services BV (Fugro)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "EolMed SAS (Quadran Energies Libres)",
+    "content": "Quadran Group will lead project through subsidiary EolMed SAS."
+  },
+  {
+    "country": "France",
+    "farm": " EolMed",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Quadran Energies Libres",
+    "content": "Quadran Group will lead project through subsidiary EolMed SAS."
+  },
+  {
+    "country": "France",
+    "farm": " EolMed",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Senvion GmbH (Formerly REpower) (Centerbridge Partners LP)",
+    "content": "Senvion will supply three or  four of their 6.2M 152 offshore turbines"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed",
+    "role": "Designer(Detailed)-Foundation(Turbine)",
+    "categorie": "Foundations",
+    "organisation": "IDEOL",
+    "content": "Project uses Ideol's Damping Pool\u00a9 foundation design. Ideol with Bouygues Travaux Publics will be in charge of Engineering, Construction and Installation of foundation"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed",
+    "role": "Main Contractor-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "IDEOL",
+    "content": "Project uses Ideol's Damping Pool\u00a9 foundation design. Ideol with Bouygues Travaux Publics will be in charge of Engineering, Construction and Installation of foundation"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed",
+    "role": "Main Contractor-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Bouygues Travaux Publics",
+    "content": "Project uses Ideol's Damping Pool\u00a9 foundation design. Ideol with Bouygues Travaux Publics will be in charge of Engineering, Construction and Installation of foundation"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Bouygues Travaux Publics",
+    "content": "Project uses Ideol's Damping Pool\u00a9 foundation design. Ideol with Bouygues Travaux Publics will be in charge of Engineering, Construction and Installation of foundation"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed",
+    "role": "Supplier-LIDAR",
+    "categorie": "Met Masts",
+    "organisation": "Upgrade",
+    "content": "Quadran Energies Marines chose EOLOS to carry out a wind and sea measurement campaign that will begin in April 2018. "
+  },
+  {
+    "country": "France",
+    "farm": " EolMed - Ideol & Quadran Commercial Scale Floating Project",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Quadran Energies Libres",
+    "content": "Ideol and Quadran are planning to co-develop a floating offshore wind farm"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed - Ideol & Quadran Commercial Scale Floating Project",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "IDEOL",
+    "content": "Ideol and Quadran are planning to co-develop a floating offshore wind farm"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed - Ideol & Quadran Commercial Scale Floating Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Quadran Energies Libres",
+    "content": "Ideol and Quadran are planning to co-develop a floating offshore wind farm"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed - Ideol & Quadran Commercial Scale Floating Project",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Quadran Energies Libres",
+    "content": "Ideol and Quadran are planning to co-develop a floating offshore wind farm"
+  },
+  {
+    "country": "France",
+    "farm": " EolMed - Ideol & Quadran Commercial Scale Floating Project",
+    "role": "Surveyor-Metocean",
+    "categorie": "Others",
+    "organisation": "CREOCEAN",
+    "content": "Creocean has the contract for all technical studies at sea to carry out the impact study. The first study includes the measurements at sea of wind, swell and currents. Creocean installed a metocean buoy on 12/01/2017 for a period of one year."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Provence Grand Large",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": " French government awarded project to EDF Energies Nouvelles, on 4th November 2016."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Provence Grand Large",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Siemens Wind Power A/S (Siemens AG)",
+    "content": "Siemens supplying 3 x 8MW wind turbines"
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Provence Grand Large",
+    "role": "Designer(Detailed)-Foundation(Turbine)",
+    "categorie": "Foundations",
+    "organisation": "IFP Energies nouvelles",
+    "content": "Partnership of IFP Energies nouvelles and SBM Offshore will design and fabricate the floating foundations."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes de Provence Grand Large",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "NaN",
+    "content": "Partnership of IFP Energies nouvelles and SBM Offshore will design and fabricate the floating foundations."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes du Golfe du Lion",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Caisse des d\u00e9p\u00f4ts et consignations",
+    "content": "Consortium of Engie/EDPR/CDC taking project forward."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes du Golfe du Lion",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Consortium of Engie/EDPR/CDC taking project forward."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes du Golfe du Lion",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Engie",
+    "content": "Consortium of Engie/EDPR/CDC taking project forward."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes du Golfe du Lion",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "GE Renewable Energy (GE Energy)",
+    "content": "GE to supply four 6MW Haliade turbines for project."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes du Golfe du Lion",
+    "role": "Designer(Detailed)-Foundation(Turbine)",
+    "categorie": "Foundations",
+    "organisation": "Principle Power, Inc.",
+    "content": "Project will use Principle Power's WindFloat foundation."
+  },
+  {
+    "country": "France",
+    "farm": " Les \u00e9oliennes flottantes du Golfe du Lion",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Eiffage Construction Metallique SAS",
+    "content": "Eiffage will fabricate the WindFloat design floating foundations."
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar - large scale prototype",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Project lead"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar - large scale prototype",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "Assisting EDF EN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar - large scale prototype",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Project lead"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar - large scale prototype",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "NENUPHAR SA",
+    "content": "Supply of 1 x 5MW turbines"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "EOLFI",
+    "content": "Project Leader"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "SPINFLOAT",
+    "content": "SPINFLOAT are a consortium led by EOLFI, and include ECN, Fraunhofer IWES, GustoMSC, LGI, MARIN, Politecnico di Milano and SSP Technology"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Designer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "GustoMSC",
+    "content": "Design of floating foundation"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Energieonderzoek Centrum Nederland (ECN) ",
+    "content": "Coupled simulations"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Fraunhofer Institute for Wind Energy and Energy Systems Technology (IWES)",
+    "content": "Drive train"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "LGI Consulting",
+    "content": "Consultancy"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "Maritime research Institute Netherlands",
+    "content": "Test basin"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "NaN",
+    "content": "Wind tunnel testing"
+  },
+  {
+    "country": "France",
+    "farm": " Spinfloat Demonstrator",
+    "role": "Contractor-Other",
+    "categorie": "Others",
+    "organisation": "SSP Technology Holding ApS (Ventizz Capital Partners AG)",
+    "content": "Blades / composites"
+  },
+  {
+    "country": "France",
+    "farm": " L\u2019\u00e9olien en mer r\u00e9gion Dunkerque (troisi\u00e8me appel d\u2019offres)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Minist\u00e8re de l'Environnement, de l'\u00c9nergie et de la Mer",
+    "content": "Ministry of Environment, Energy and Sea, has identified the area as having favourable conditions for offshore wind and will put area up as France's 3rd tender, in the future."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer d'Ol\u00e9ron",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Minist\u00e8re de l'Environnement, de l'\u00c9nergie et de la Mer",
+    "content": "Ministry of Environment, Energy and Sea, has identified the area as having favourable conditions for offshore wind and will include area as part of France's 3rd tender."
+  },
+  {
+    "country": "France",
+    "farm": " Parc \u00e9olien en mer d'Ol\u00e9ron",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "wpd AG",
+    "content": "WPD and an organisations from Ol\u00e9ron Island (Communaut\u00e9 de communes de l'Ile d'Ol\u00e9ron) have been involved in promoting area and pressing government, to include area in an offshore tender round. It is expected WPD will apply, once tender window opens."
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar TWINFLOAT - pilot wind farm (VertiMED)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Project lead"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar TWINFLOAT - pilot wind farm (VertiMED)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Technip S.A.",
+    "content": "Assisting EDF EN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar TWINFLOAT - pilot wind farm (VertiMED)",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "Assisting EDF EN"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar TWINFLOAT - pilot wind farm (VertiMED)",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "Project lead"
+  },
+  {
+    "country": "France",
+    "farm": " N\u00e9nuphar TWINFLOAT - pilot wind farm (VertiMED)",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "NENUPHAR SA",
+    "content": "Supply of 4 x 5MW turbines"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "WIN (Wind Innovation in Normandy)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Engie",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Areva Wind (Areva)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Nordex Energy AG",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "wpd Offshore France SAS (WPD offshore GmbH)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Technip S.A.",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Alstom Group",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "La Compagnie du Vent GDF SUEZ (Engie)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENERTRAG France (ENERTRAG)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Manufacturer-Turbine",
+    "categorie": "Turbines",
+    "organisation": "Areva Wind (Areva)",
+    "content": "Provision of Multibrid M5000 turbines likely for test site"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Designer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Offshore Wind Technologie (OWT) GmbH",
+    "content": ""
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Manufacturer-Foundation(PinPiles)",
+    "categorie": "Foundations",
+    "organisation": "Sif-Group B.V.",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Manufacturer-Foundation(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Aker Verdal AS (Aker Solutions)",
+    "content": "Supply of 6  tripod foundations, (original contract was for 7 foundations) to be assembled in France"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Manufacturer-Foundation-Primary Steel(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Aker Verdal AS (Aker Solutions)",
+    "content": "Fabrication of 6  tripod foundations. (original contract was for 7 foundations)"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Manufacturer-Foundation-Primary Steel(turbine)",
+    "categorie": "Foundations",
+    "organisation": "Sif-Group B.V.",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Consultant-Certification",
+    "categorie": "Consultants",
+    "organisation": "DNV GL AS",
+    "content": "Soil investigation review."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Consultant-Certification",
+    "categorie": "Consultants",
+    "organisation": "SGS-International Certification Services GmbH",
+    "content": "Project certification and manufacturing surveillance."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "Green Giraffe",
+    "content": "Provided strategic advisory during the financing of the project."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 1",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Cathie Associates ",
+    "content": "Supervision of geotechnical investigation. Assistance to develop laboratory testing program and approach for characterising the weak chalk, and survey requirements."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "WIN (Wind Innovation in Normandy)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Alstom Group",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Areva Wind (Areva)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENERTRAG France (ENERTRAG)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Engie",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "La Compagnie du Vent GDF SUEZ (Engie)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Nordex Energy AG",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Technip S.A.",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "wpd Offshore France SAS (WPD offshore GmbH)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Consultant-Certification",
+    "categorie": "Consultants",
+    "organisation": "DNV GL AS",
+    "content": "Soil investigation review."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Consultant-Certification",
+    "categorie": "Consultants",
+    "organisation": "SGS-International Certification Services GmbH",
+    "content": "Project certification and manufacturing surveillance."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "Green Giraffe",
+    "content": "Provided strategic advisory during the financing of the project."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 2",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Cathie Associates ",
+    "content": "Supervision of geotechnical investigation. Assistance to develop laboratory testing program and approach for characterising the weak chalk, and survey requirements."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Developer",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "WIN (Wind Innovation in Normandy)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Alstom Group",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Areva Wind (Areva)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NaN",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "ENERTRAG France (ENERTRAG)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Engie",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "La Compagnie du Vent GDF SUEZ (Engie)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "NENUPHAR SA",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Nordex Energy AG",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "Technip S.A.",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Owner",
+    "categorie": "Developers/Owners/Operators",
+    "organisation": "wpd Offshore France SAS (WPD offshore GmbH)",
+    "content": "NaN"
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Consultant-Certification",
+    "categorie": "Consultants",
+    "organisation": "DNV GL AS",
+    "content": "Soil investigation review."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Consultant-Certification",
+    "categorie": "Consultants",
+    "organisation": "SGS-International Certification Services GmbH",
+    "content": "Project certification and manufacturing surveillance."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Consultant-Financial",
+    "categorie": "Consultants",
+    "organisation": "Green Giraffe",
+    "content": "Provided strategic advisory during the financing of the project."
+  },
+  {
+    "country": "France",
+    "farm": " WIN 2 - Phase 3",
+    "role": "Consultant-Other",
+    "categorie": "Consultants",
+    "organisation": "Cathie Associates ",
+    "content": "Supervision of geotechnical investigation. Assistance to develop laboratory testing program and approach for characterising the weak chalk, and survey requirements."
+  }
+]
