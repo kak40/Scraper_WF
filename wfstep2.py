@@ -147,7 +147,7 @@ def get_supply_chain(farm):
 
 
 # create data dir if it doesn't exist
-directory = '/home/kakinew/BigData/Python/countries-datas'
+directory = '~/countries-datas'
 if not os.path.exists(directory):
     os.makedirs(directory)
     
@@ -211,4 +211,4 @@ for file in os.listdir(os.path.join('.',directory)):
 
 #convert data to csv
 da = pd.DataFrame(datas)
-da.to_csv("/home/kakinew/BigData/Python/data.csv",encoding="utf-8")
+da.to_csv("data.csv",encoding="utf-8")
